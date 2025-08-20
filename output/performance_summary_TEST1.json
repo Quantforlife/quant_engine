@@ -1,0 +1,30 @@
+{
+  "test_number": 1,
+  "generated_at": "2025-08-12T13:11:16.824803",
+  "performance_metrics": {
+    "total_return": NaN,
+    "cagr": NaN,
+    "volatility": 0.002117889430696949,
+    "sharpe_ratio": -9.179534294102714,
+    "sortino_ratio": -8.555285399171613,
+    "max_drawdown": 0.0,
+    "calmar_ratio": 0,
+    "win_rate": 0.5503909643788011,
+    "avg_win": 5.524497213581435e-05,
+    "avg_loss": -6.397147854917848e-05,
+    "profit_factor": 1.0779954877046565,
+    "total_trades": 8381,
+    "trading_days": 2302,
+    "final_capital": NaN,
+    "peak_capital": 100000.0
+  },
+  "summary_stats": {
+    "total_trades": 8381,
+    "winning_trades": 0,
+    "losing_trades": 0,
+    "win_rate": 0.5503909643788011,
+    "profit_factor": 1.0779954877046565,
+    "sharpe_ratio": -9.179534294102714,
+    "max_drawdown": 0.0
+  }
+}

@@ -1,0 +1,16 @@
+metric,value,category
+total_return,,Returns
+cagr,,Returns
+volatility,0.002117889430696949,Risk
+sharpe_ratio,-9.179534294102714,Risk-Adjusted Returns
+sortino_ratio,-8.555285399171613,Risk-Adjusted Returns
+max_drawdown,0.0,Risk
+calmar_ratio,0.0,Risk-Adjusted Returns
+win_rate,0.5503909643788011,Trading
+avg_win,5.524497213581435e-05,Trading
+avg_loss,-6.397147854917848e-05,Other
+profit_factor,1.0779954877046565,Trading
+total_trades,8381.0,Trading
+trading_days,2302.0,Other
+final_capital,,Other
+peak_capital,100000.0,Other
